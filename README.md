@@ -39,6 +39,15 @@ print(response.choices[0].message.content)
 
 For detailed documentation, see the [docs](./docs) directory.
 
+## Disclaimer
+
+⚠️ **This is an unofficial, third-party wrapper for the 豆宝/Grace AI API.**
+
+- This project is **NOT** developed, endorsed, or supported by ByteDance or the official 豆宝 team.
+- This wrapper is provided as-is for educational and community use.
+- Use at your own risk. The authors are not responsible for any issues arising from the use of this wrapper.
+- Please refer to the official 豆宝 API documentation and terms of service for the latest and most accurate information.
+
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details
