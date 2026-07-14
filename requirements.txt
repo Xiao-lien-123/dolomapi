@@ -1,0 +1,3 @@
+"""Requirements for DolomAPI"""
+
+httpx>=0.24.0
